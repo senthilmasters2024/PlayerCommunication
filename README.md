@@ -32,13 +32,14 @@ Developed a scalable framework for Semantic Similarity Analysis of Textual Data 
    ```
 2. Navigate to the project directory:
    ```sh
-   cd semantica-analysis-textual-data
+   cd SemanticAnalysisTextualData
    ```
 3. Restore dependencies:
    ```sh
    dotnet restore
    ```
 4. Alternatively, download the published zip file from the [Release Section](https://github.com/senthilmasters2024/Tech_Tweakers/releases/tag/v1.0-beta.1).
+5. For Setup and Run the application, you can have a look short setup tutorial,[SetupTutorial](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SetupandRunFromVisualStudioAndFromReleaseSection)
 
 **Tools Required:**
 - Visual Studio
