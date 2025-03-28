@@ -64,8 +64,8 @@ You can run the program by executing `SemanticaAnalysisTextualData.exe` via doub
 ## **Before Running For More Better Understanding of the Application**
 You can go through our Documentation,Presentation Video and FlowChart for better understanding of the process.  
 -  [Documentation Section](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation)
--  [Flow Chart]: https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SimilarityFlowChart.svg  
--  [Research Paper]: https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SemanticSimilarityAnalysisTextualData.pdf
+-  [Flow Chart](https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SimilarityFlowChart.svg) 
+-  [Research Paper](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SemanticSimilarityAnalysisTextualData.pdf)
 -  
 ### **Run the Program**
 Run `Program.cs`, which serves as the entry point for the application. Developers are given options to analyze the data:
