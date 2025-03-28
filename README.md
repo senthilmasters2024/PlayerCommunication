@@ -240,13 +240,16 @@ With the help of this code,it will pick the latest similarity score and plot the
 Currently we are using externally to plot and developer should be able to understand how it is plotted, we are looking to improve it by integrating with some 
 kind of automatic scripts and currently implementation may roll out in future.
 #### **Limitations**
-```
+
 Currently we are supporting only text files for analysis of documents, By improving the solution by introducing future plan is
 to integrate to support docx and pdf files also to support the enhanced version where then this application can be used for real time applications like Resume Filtering and Admission Requirement Matching.
-```
+
 #### **Overcoming Limitations**
+
 Future Release will be focussed to cover all this drawbacks and make the application better.
+
 ## **Contributing**
+
 Contributions are welcome! To contribute:
 - Fork the repository.
 - Create a new branch (feature/your-feature-name).
