@@ -13,7 +13,7 @@ Developed a scalable framework for Semantic Similarity Analysis of Textual Data 
 ### **Key Features:**
 - Compare documents and phrases with or without preprocessing.
 - Generate similarity scores and visualize results using various plots.
-- Save results as CSV and JSON files for further analysis.
+- Save results as CSV for further analysis.
 - Provide user-defined thresholds for classification.
 
 ## **Table of Contents**
