@@ -23,7 +23,6 @@ Developed a scalable framework for Semantic Similarity Analysis of Textual Data 
 - [Visualization](#visualization)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## **Installation**
 
@@ -66,7 +65,7 @@ You can go through our Documentation,Presentation Video and FlowChart for better
 -  [Documentation Section](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation)
 -  [Flow Chart](https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SimilarityFlowChart.svg) 
 -  [Research Paper](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SemanticSimilarityAnalysisTextualData.pdf)
--  
+  
 ### **Run the Program**
 Run `Program.cs`, which serves as the entry point for the application. Developers are given options to analyze the data:
 
@@ -221,12 +220,13 @@ If you want to See the Results of the Embedding generated at the range of 0-3052
 preprocessed_JobProfileCDeveloper.txtembedding_values or JobProfileCDeveloper.txtembedding_values depends on the choice you used for the analysis-textual-data
 ```
 #### **How to Plot the Score Using Python**
-Python code used for Plotting can be found at - https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/PythonCodeForVisualisation
+Python codes used for Plotting can be found at:
+[PythonCodeForVisualisation](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/PythonCodeForVisualisation)
 For Phrase Similarity - PhraseandWordsSimilarityPlot.py
 For Document Similarity - DocumentAnalysisVisualisationLatest.py
 For Plotting Similarity Score with Scalar Values - SimilarityPlotWithScalarValues.py
 For Downloading Required Libs - requirements.txt
-
+[YoutubeLinkForBasicSetupForPython](https://www.youtube.com/watch?v=GK0usm20xes)
 You can create a new python project and install required dependecies using requirement.txt which is available inside the source repository
 
 Inorder to execute the code, you must copy the generated output data folder to the Python Project Root and then if you execute
