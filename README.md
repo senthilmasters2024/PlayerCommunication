@@ -242,7 +242,8 @@ kind of automatic scripts and currently implementation may roll out in future.
 #### **Limitations**
 
 Currently we are supporting only text files for analysis of documents, By improving the solution by introducing future plan is
-to integrate to support docx and pdf files also to support the enhanced version where then this application can be used for real time applications like Resume Filtering and Admission Requirement Matching.
+to integrate to support docx and pdf files also to support the enhanced version where then this application can be used 
+for real time applications like Resume Filtering and Admission Requirement Matching.
 
 #### **Overcoming Limitations**
 
