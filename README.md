@@ -61,7 +61,7 @@ OPENAI_API_KEY="Your_API_Key_Here"
 ### **Running from Downloaded Release**
 You can run the program by executing `SemanticaAnalysisTextualData.exe` via double-click or from the command prompt.
 
-## **Before Running For More Better Understanding of the Application**
+## **Before Running For Better Understanding of the Application**
 You can go through our Documentation,Presentation Video and FlowChart for better understanding of the process.  
 -  [Documentation Section](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation)
 -  [Flow Chart](https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SimilarityFlowChart.svg) 
