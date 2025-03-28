@@ -62,16 +62,11 @@ OPENAI_API_KEY="Your_API_Key_Here"
 You can run the program by executing `SemanticaAnalysisTextualData.exe` via double-click or from the command prompt.
 
 ## **Before Running For More Better Understanding of the Application**
-You can go through our [Documentation Section] and [Flow Chart] for understanding the process.  
-
-- [Documentation Section]: https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation  
-- [Flow Chart]: https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SimilarityFlowChart.svg  
-
-You can find our [Research Paper] here.  
-
-- [Research Paper]: https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SemanticAnalysisTextualData.docx  
-
-   
+You can go through our Documentation,Presentation Video and FlowChart for better understanding of the process.  
+-  [Documentation Section](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation)
+-  [Flow Chart]: https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SimilarityFlowChart.svg  
+-  [Research Paper]: https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SemanticSimilarityAnalysisTextualData.pdf
+-  
 ### **Run the Program**
 Run `Program.cs`, which serves as the entry point for the application. Developers are given options to analyze the data:
 
@@ -240,10 +235,12 @@ file_path = os.path.join(current_directory, 'data', 'output_dataset.csv')
 
 With the help of this code,it will pick the latest similarity score and plot the scores
 
-Currently we are using externally to plot and developer should be able to understand how it is plotted, we are looking to improve it by integrating with some kind of automatic scripts and currently implementation may roll out in future.
+Currently we are using externally to plot and developer should be able to understand how it is plotted, we are looking to improve it by integrating with some 
+kind of automatic scripts and currently implementation may roll out in future.
 #### **Limitations**
 ```
-Currently we are supporting only text files for analysis of documents, By improving the solution by introducing future plan to integrate to support docx and pdf files also to support the enhanced version where then this application can be used for real time applications like Resume Filtering and Admission Requirement Matching.
+Currently we are supporting only text files for analysis of documents, By improving the solution by introducing future plan is
+to integrate to support docx and pdf files also to support the enhanced version where then this application can be used for real time applications like Resume Filtering and Admission Requirement Matching.
 ```
 #### **Overcoming Limitations**
 Future Release will be focussed to cover all this drawbacks and make the application better.
