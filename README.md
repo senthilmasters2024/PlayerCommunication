@@ -51,7 +51,7 @@ Developed a scalable framework for Semantic Similarity Analysis of Textual Data 
 
 ### **Setup the Environment Variable**
 
-OPENAI_API_KEY="Your_API_Key_Here"
+OPENAI_API_KEY="Your_API_Key_Here" and 
 How to Setup Tutorial Video can be found here -[HowtoSetOpenAPIKeyinSystemEnvironmentVariable](https://www.youtube.com/watch?v=hgXJia5WxtY).
 ### **Running the Program**
 1. Build the solution in Visual Studio by selecting `Build > Build Solution`.
