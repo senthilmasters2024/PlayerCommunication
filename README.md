@@ -39,7 +39,8 @@ Developed a scalable framework for Semantic Similarity Analysis of Textual Data 
    dotnet restore
    ```
 4. Alternatively, download the published zip file from the [Release Section](https://github.com/senthilmasters2024/Tech_Tweakers/releases/tag/v1.0-beta.1).
-5. For Setup and Run the application, you can have a look short setup tutorial [SetupTutorial](https://github.com/senthilmasters2024/Tech_Tweakers/tree/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SetupandRunFromVisualStudioAndFromReleaseSection)
+5. For Setup and Run the application, you can have a look short setup tutorial
+[SetupTutorial(https://github.com/senthilmasters2024/Tech_Tweakers/blob/main/SemanticAnalysisTextualData/SemanticAnalysisTextualData/Documentation/SetupandRunFromVisualStudioAndFromReleaseSection.mp4)
 
 **Tools Required:**
 - Visual Studio
