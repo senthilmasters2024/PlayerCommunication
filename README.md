@@ -178,6 +178,7 @@ ranges plot are travelling and varying together within that 0-3052 range between
   - [View Plot](https://senthilmasters2024.github.io/Tech_Tweakers/PhrasesSimilarityClassficationByDomainsPlots.html)
 Third Plot Helps to Understand the user or developers to observe the number of Phrases used for the comparsion, as each and every documents
 are indivudally compared though its relavant or irrelavant which helps to study the contextual alignment more clearly.
+
 **What we can infer from Third Plot:**
 The output CSV generated from the document comparison analysis is being updated to include domain names derived from filenames, allowing for more structured, programmatic domain-based classification. This enhancement enables our approach to classify documents across different domains more effectively.
 Currently, document classification is performed by comparing documents from various domains with an initial dataset, which includes categories such as medical and job requirements. In addition to this, we now classify documents based on filenames to identify their type.
