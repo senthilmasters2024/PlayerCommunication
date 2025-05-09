@@ -1,8 +1,17 @@
-# Tech_Tweakers
-# **Semantic Similarity Analysis of Textual Data**
+# My Exercises
+#### Exercise I 
 
-## Introduction
-Developed a scalable framework for Semantic Similarity Analysis of Textual Data focusing on words/phrases and/or documents comparisons using OpenAI embeddings and Cosine Similarity algorithm. The tool offers flexible preprocessing, ensuring contextually relevant similarity assessments. It demonstrates effectiveness in capturing semantic nuances with practical applications including resume filtering, admission categorization, and content classification. This project provides utilities for analyzing textual data, calculating phrase similarities, and saving results to CSV and JSON files.
+**To gain hands-on experience using the Azure CLI to:**
+
+Create Azure Account Creation
+
+Authenticate and manage Azure subscriptions
+
+Create resource groups dynamically using Bash
+
+Clean up Azure resources using CLI commands
+
+[Excercise1](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex1).
 
 ### **Technologies Used:**
 - C# (.NET 9.0 or Latest)
