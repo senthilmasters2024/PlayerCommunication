@@ -11,7 +11,7 @@ Create resource groups dynamically using Bash
 
 Clean up Azure resources using CLI commands
 
-[Excercise1](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex1).
+Please click here to access my excerise 1 practise screenshots and proof´s of CLI commands here [Excercise1](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex1).
 
 ### **Technologies Used:**
 - C# (.NET 9.0 or Latest)
