@@ -19,36 +19,6 @@ Please click here to access my excerise 1 practise screenshots and proof´s of C
 1. Provide the URL to the docker file. I.e.: [DockerFile](https://github.com/senthilmasters2024/MyFirstWebAppForDocker/blob/master/Dockerfile).
 2. Provide the URL to the published image in the Docker Hub [PublishedImageinDockerHub](https://hub.docker.com/r/senthil1077/dockerconsoleapp/tags). and run this to pull docker image to your local docker pull senthil1077/dockerconsoleapp:v1
 3. Provide the URL to the private(public??) image in the Azure Registry [Excercise2](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex2)
-**In this exercise, I gained hands-on experience with Docker containerization and cloud deployment using Azure. Below are the key steps and learnings:**
-🐳 Docker Basics
-•	Installed and configured Docker Desktop on Windows.
-•	Created and tested a basic .NET console application with Docker support.
-•	Built Docker images using docker build, and verified with docker images.
-•	Ran containers using:
-•	docker run -it <image> (interactive mode)
-•	docker run -it --rm <image> (auto-remove after exit)
-•	Managed containers using:
-•	docker ps -a (list all containers)
-•	docker container prune (clean up stopped containers)
-•	docker logs -f <container> (live logs)
-🌐 Docker Hub Integration
-•	Tagged images appropriately using docker tag.
-•	Pushed images to Docker Hub using:
-•	docker push senthil1077/dockerconsoleapp:v1
-•	Verified the image presence in Docker Hub and pulled it back using docker pull.
-☁️ Azure Container Registry (ACR)
-Logged in to Azure via CLI and created:
-•	A resource group
-•	An Azure Container Registry (ACR) instance
-•	Tagged the Docker image for ACR and pushed it using Azure CLI.
-•	Assigned appropriate roles for image publishing and access.
-•	Verified that the image is available in the Azure Container Registry.
-
-🧪 Deployment and Testing
-Deployed a sample web app (MyFirstWebApp) in a Docker container.
-Exposed the app using port mapping: -p 8000:8080
-Confirmed successful running and accessibility of the app from the container.
-
 #### Exercise 3 - Host a web application with Azure App Service
 
 1. Provide the public URL of the webapplication.
