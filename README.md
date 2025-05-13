@@ -18,7 +18,8 @@ Please click here to access my excerise 1 practise screenshots and proof´s of C
 
 1. Provide the URL to the docker file. I.e.: [DockerFile](https://github.com/senthilmasters2024/MyFirstWebAppForDocker/blob/master/Dockerfile).
 2. Provide the URL to the published image in the Docker Hub [PublishedImageinDockerHub](https://hub.docker.com/r/senthil1077/dockerconsoleapp/tags). and run this to pull docker image to your local docker pull senthil1077/dockerconsoleapp:v1
-3. Provide the URL to the private(public??) image in the Azure Registry [Excercise2](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex2)
+3. Provide the URL to the private(public??) image in the Azure Registry [Excercise2](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex2) you can find all the screenshots related to azure registry and step by step screenshots of excercise 2 in the PDF documents and scripts used to run in local in Excercise2AzureScriptsForDockerPush.txt and Excersie2DockerScripts.txt files.
+
 #### Exercise 3 - Host a web application with Azure App Service
 
 1. Provide the public URL of the webapplication.
