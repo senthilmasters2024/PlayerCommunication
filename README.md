@@ -22,9 +22,9 @@ Please click here to access my excerise 1 practise screenshots and proof´s of C
 
 #### Exercise 3 - Host a web application with Azure App Service
 
-1. Provide the public URL of the webapplication.
-2. Provide the URL to the source code of the hosted application. (Source code somwhere or the the docker image, or ??)
-3. Provide AZ scripts used to publish the application.
+1. Provide the public URL of the webapplication. - Provided Since Screenshots below in Ex3 folder since stopped the webapp in azure portal to minimize cost
+2. Provide the URL to the source code of the hosted application. (Source code somwhere or the the docker image, or ??) - [Excercise3SourceCode](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/blob/bab3f79d30d5f2cf6e9f84ab4da61383b1c83f98/CC_MyWork/Ex3/BestBikeApp/webapp.zip)
+3. Provide AZ scripts used to publish the application. [Excercise3](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/tree/senthilmasters2024/CC_MyWork/Ex3)
 
 #### Exercise 4 - Deploy and run the containerized app in AppService
 
