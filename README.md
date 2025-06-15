@@ -28,8 +28,8 @@ Please click here to access my excerise 1 practise screenshots and proof´s of C
 
 #### Exercise 4 - Deploy and run the containerized app in AppService
 
-1. Provide URL to the docker image of your application (Docker Hub / Azure Registry)
-2. Provide the public URL to the running application. 
+1. Provide URL to the docker image of your application (Docker Hub / Azure Registry)[DockerImage](https://hub.docker.com/repository/docker/senthil1077/webapplabex4/tags/v4/sha256-bfc9c28f643c995d9f9e18fc5683a0af2216afa863793310d6a766442ab87d25)
+2. Provide the public URL to the running application[Screenshots](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/blob/senthilmasters2024/CC_MyWork/Ex4/Ex4_Screenshots.pdf). 
 
 #### Exercise 5 - Blob Storage
 
@@ -40,14 +40,23 @@ Following are mandatory:
 Contains training files
 
 - Output
-Contains output of the traned models
+Contains output of the traned models[ContainsBothInputAndOutputImagesandTextwithThreeDifferentContainers](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/blob/senthilmasters2024/CC_MyWork/Ex5/Ex5Screenshots.pdf)
+
+-ConnectionString - DefaultEndpointsProtocol=https;AccountName=cclabex5senthil;AccountKey=Zd/KkCw6IaudSLrZqJHneRnmLNyEBi1MeoiKZ1AvuGAH5+rXrEfv5SL0KjEF7Whe2NNLCvrQNMSm+AStmHpuzQ==;EndpointSuffix=core.windows.net
 
 - 'Test' for playing and testing.
-you should provide here SAS Url to 2-3 files in this container with time expire 1 year.
+you should provide here SAS Url to 2-3 files in this container with time expire 1 year[SASURLUploadcontainer](https://cclabex5senthil.blob.core.windows.net/uploadcontainer/image.jpg?sp=r&st=2025-06-15T10:45:09Z&se=2027-02-02T19:45:09Z&spr=https&sv=2024-11-04&sr=b&sig=G6KikHUNWC2tJKjx5Aswhs2cQN8zIBXECNzZMt%2FL9IY%3D).
+[SASURLDownloadcontainer](https://cclabex5senthil.blob.core.windows.net/downloadcontainer/downloaded-Microsoft-Azure-Logo-2017-present.jpg?sp=r&st=2025-06-15T10:48:13Z&se=2027-01-01T19:48:13Z&spr=https&sv=2024-11-04&sr=b&sig=aFwl748fwNZFH6ND34g86cVglD564ZGWgUzyKHCAm5c%3D)
+[SASURLForTextQuickStarrt](https://cclabex5senthil.blob.core.windows.net/quickstartblobs00e317c8-d031-4021-b7b6-ae83302d74a7/quickstart8e58f6bf-2558-4eb2-8a67-2e7ad54ce449.txt?sp=r&st=2025-06-15T10:49:16Z&se=2025-06-15T18:49:16Z&spr=https&sv=2024-11-04&sr=b&sig=AkzbUi7teqbX27mCbjF5xPxaiHVvv%2FXUm2LzugcIyvs%3D)
 
 #### Exercise 6 - Table Storage
 
 Provide us access to the account which you have used for table exersises.
+
+[ContainsBothInputAndOutputImagesandTextwithThreeDifferentContainersScreenshots](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/blob/senthilmasters2024/CC_MyWork/Ex6/Ex6Screenshots.pdf)
+
+-ConnectionString - DefaultEndpointsProtocol=https;AccountName=cclabex5senthil;AccountKey=Zd/KkCw6IaudSLrZqJHneRnmLNyEBi1MeoiKZ1AvuGAH5+rXrEfv5SL0KjEF7Whe2NNLCvrQNMSm+AStmHpuzQ==;EndpointSuffix=core.windows.net
+-[SASURLForReadQuery](https://cclabex5senthil.table.core.windows.net/Product?sp=r&st=2025-06-15T10:53:57Z&se=2025-06-16T10:53:57Z&spr=https&sv=2024-11-04&sig=fRxBaU7g%2Bp0cBLudugzevlYlbOLmTZFqEwKk3xofzDA%3D&tn=Product)
 
 #### Exercise 7 - Queue Storage
 
