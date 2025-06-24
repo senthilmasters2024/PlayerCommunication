@@ -61,3 +61,8 @@ Provide us access to the account which you have used for table exersises.
 #### Exercise 7 - Queue Storage
 
 Provide us access to the account which you have used for queue exersises.
+[QueueScreenshots](https://github.com/UniversityOfAppliedSciencesFrankfurt/se-cloud-2024-2025/blob/senthilmasters2024/CC_MyWork/Ex7/Ex7Screenshots.pdf)
+
+-ConnectionString - DefaultEndpointsProtocol=https;AccountName=cclabex5senthil;AccountKey=Zd/KkCw6IaudSLrZqJHneRnmLNyEBi1MeoiKZ1AvuGAH5+rXrEfv5SL0KjEF7Whe2NNLCvrQNMSm+AStmHpuzQ==;EndpointSuffix=core.windows.net
+-[SASURLForQueueStartqueues](https://cclabex5senthil.queue.core.windows.net/quickstartqueues-2e7b2e6a-bd93-41b4-b846-5413c568605d?sp=r&st=2025-06-24T19:52:32Z&se=2026-12-29T20:52:00Z&spr=https&sv=2024-11-04&sig=rhCutCVt45CqL75hiKY7JuDu%2BfjVokbqDygxekpP%2BnA%3D)
+
